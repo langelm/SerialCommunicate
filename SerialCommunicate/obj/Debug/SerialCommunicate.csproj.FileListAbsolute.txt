@@ -1,0 +1,10 @@
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojAssemblyReference.cache
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.cache
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.CoreCompileInputs.cache
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+D:\visual studio\project\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
